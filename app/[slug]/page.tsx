@@ -7,6 +7,7 @@ import { Toc } from "@/components/site/components/Toc";
 import { ChecklistBox } from "@/components/site/components/ChecklistBox";
 import { DisclosureBox } from "@/components/site/components/DisclosureBox";
 import { KeywordCards } from "@/components/site/components/KeywordCards";
+import { Faq } from "@/components/site/components/Faq";
 import { Byline } from "@/components/site/components/Byline";
 import { SITE } from "@/lib/site";
 import keywordsData from "@/data/keywords.json";
